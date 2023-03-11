@@ -3,11 +3,16 @@
 This repository contains a collection of IT cheatsheets to help you quickly reference essential information.
 
 ## Contents
+1. OSI Model
+2. Domain Hierarchy
 
-### Networking
-- OSI Model
+### OSI Model
 
-TThe OSI Model is a conceptual framework that defines how data is transmitted between devices on a network. This cheatsheet provides information about each layer of the OSI Model, including its name, function, type of data processed, and common protocols and standards used.
+TThe OSI Model is a conceptual framework that defines how data is transmitted between devices on a network. This cheatsheet provides information about each layer of the OSI Model, including:
+- name;
+- function;
+- type of data processed;
+- common protocols and standards.
 
 ![OSI-Model Cheatsheet](https://user-images.githubusercontent.com/119814239/224482500-51d8a238-b547-4ed4-94fb-8b70b14c1198.png)
 
@@ -18,13 +23,12 @@ TThe OSI Model is a conceptual framework that defines how data is transmitted be
 
 > https://www.comptia.org/blog/open-systems-interconnection-reference-model
 
-### Domains
-- Domain Hierarchy
+### Domain Hierarchy
 
 This cheatsheet contains the hierarchy models of domains. It includes:
-1. Hierarchic model of domains
-2. Name, functions, definitions and examples of real domains
-3. Model of URL (Uniform Resource Locator), with brief description of its parts.
+- Hierarchic model of domains;
+- Name, functions, definitions and examples of real domains;
+- Model of URL (Uniform Resource Locator), with brief description of its parts.
 
 All of the components are tightly connected to each other with specific colors, so it's easier to distinguish certain parts of the schema. Colors play a big role in this model, so keep that in mind while reading it.
 

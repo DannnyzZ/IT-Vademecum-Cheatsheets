@@ -1,0 +1,8 @@
+This cheatsheet contains the hierarchy models of domains. It includes:
+1. hierarchic model of domains
+2. name, functions, definitions and examples of real domains
+3. model of URL (Uniform Resource Locator), with brief description of its parts.
+
+All of the components are tightly connected to eachother with specific colours, so its easier to distinguish certain parts of the schema. Colors play a big role in this model, so keep that in mind while reading it.
+
+Source: Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."

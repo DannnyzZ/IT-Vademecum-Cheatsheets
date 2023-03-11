@@ -1,4 +1,4 @@
-# Cheatsheets
+# IT Cheatsheets
 
 This repository contains a collection of IT cheatsheets to help you quickly reference essential information.
 
@@ -11,6 +11,18 @@ The OSI Model is a conceptual framework that defines how data is transmitted bet
 
 ![OSI-Model Cheatsheet](https://user-images.githubusercontent.com/119814239/224482500-51d8a238-b547-4ed4-94fb-8b70b14c1198.png)
 
+### Domains
+- Domain Hierarchy
+
+This cheatsheet contains the hierarchy models of domains. It includes:
+1. Hierarchic model of domains
+2. Name, functions, definitions and examples of real domains
+3. Model of URL (Uniform Resource Locator), with brief description of its parts.
+
+All of the components are tightly connected to each other with specific colors, so it's easier to distinguish certain parts of the schema. Colors play a big role in this model, so keep that in mind while reading it.
+
+![Domain-Hierarchy Cheatsheet](https://user-images.githubusercontent.com/119814239/224484316-17723fa3-2864-41ee-8c10-9a8845b169a3.png)
+
 ## License
 
 This repository is licensed under the MIT License.
@@ -18,15 +30,3 @@ This repository is licensed under the MIT License.
 ## Contributing
 
 If you would like to contribute to this repository, please feel free to submit a pull request. All contributions are welcome and appreciated.
-
-### Improvements made
-
-- Added a README file to provide context and instructions for using the cheatsheets.
-- Organized the repository into folders for different types of cheatsheets.
-- Added a license to clarify how others can use the cheatsheets.
-- Improved the formatting to make the cheatsheets consistent and easy to read.
-- Used a consistent style for all the cheatsheets.
-- Added explanations for each cheatsheet to help users understand the content better.
-- Added a table of contents to help users navigate the repository more easily.
-- Used descriptive names for each cheatsheet to make it clear what it contains.
-- Added a section on contributing to give credit to those who have contributed to the repository.

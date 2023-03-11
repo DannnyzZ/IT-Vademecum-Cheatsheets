@@ -11,6 +11,13 @@ TThe OSI Model is a conceptual framework that defines how data is transmitted be
 
 ![OSI-Model Cheatsheet](https://user-images.githubusercontent.com/119814239/224482500-51d8a238-b547-4ed4-94fb-8b70b14c1198.png)
 
+### Sources
+> https://github.com/vald-phoenix/the-osi-model
+
+> https://www.professormesser.com/network-plus/n10-008/n10-008-video/understanding-the-osi-model-3/
+
+> https://www.comptia.org/blog/open-systems-interconnection-reference-model
+
 ### Domains
 - Domain Hierarchy
 
@@ -22,6 +29,10 @@ This cheatsheet contains the hierarchy models of domains. It includes:
 All of the components are tightly connected to each other with specific colors, so it's easier to distinguish certain parts of the schema. Colors play a big role in this model, so keep that in mind while reading it.
 
 ![Domain-Hierarchy Cheatsheet](https://user-images.githubusercontent.com/119814239/224484316-17723fa3-2864-41ee-8c10-9a8845b169a3.png)
+
+### Sources
+> Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."
+
 
 ## License
 

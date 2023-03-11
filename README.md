@@ -9,7 +9,7 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 
 # OSI Model
 
-TThe OSI Model is a conceptual framework that defines how data is transmitted between devices on a network. This cheatsheet provides information about each layer of the OSI Model, including:
+**The OSI Model** is a conceptual framework that defines how data is transmitted between devices on a network. This cheatsheet provides information about each layer of the OSI Model, including:
 - name;
 - function;
 - type of data processed;
@@ -24,7 +24,11 @@ TThe OSI Model is a conceptual framework that defines how data is transmitted be
 
 > https://www.comptia.org/blog/open-systems-interconnection-reference-model
 
+> Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."
+
 # Domain Hierarchy
+
+**A Domain Hierarchy** refers to the organization of internet domains in a hierarchical structure. The top-level domain (TLD) is at the root of the hierarchy and is followed by second-level domains, third-level domains, and so on. Each level represents a more specific subdomain of the previous level. The hierarchy can be used to provide structure and organization to the internet, making it easier to find and access information.
 
 This cheatsheet contains the hierarchy models of domains. It includes:
 - Hierarchic model of domains;
@@ -40,7 +44,7 @@ All of the components are tightly connected to each other with specific colors, 
 
 # Incident Handling Checklist
 
-An Incident Handling Checklist is a critical document that outlines the necessary steps and procedures for responding to a security incident, such as a cyber-attack, data breach, or other types of security breaches. The purpose of the checklist is to help incident responders promptly and efficiently respond to the incident, minimize its impact on the organization, and prevent future incidents from occurring.
+**An Incident Handling Checklist** is a critical document that outlines the necessary steps and procedures for responding to a security incident, such as a cyber-attack, data breach, or other types of security breaches. The purpose of the checklist is to help incident responders promptly and efficiently respond to the incident, minimize its impact on the organization, and prevent future incidents from occurring.
 
 The Incident Handling Checklist is typically structured into three main sections:
 - Detection and Analysis: This section includes steps for detecting and analyzing the incident, identifying the type and scope of the incident, and assessing its impact on the organization. This section also outlines the communication procedures and escalation protocols to follow during the incident.

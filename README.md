@@ -7,7 +7,7 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 2. Domain Hierarchy
 3. Incident handling checklist
 
-### OSI Model
+## OSI Model
 
 TThe OSI Model is a conceptual framework that defines how data is transmitted between devices on a network. This cheatsheet provides information about each layer of the OSI Model, including:
 - name;
@@ -24,7 +24,7 @@ TThe OSI Model is a conceptual framework that defines how data is transmitted be
 
 > https://www.comptia.org/blog/open-systems-interconnection-reference-model
 
-### Domain Hierarchy
+## Domain Hierarchy
 
 This cheatsheet contains the hierarchy models of domains. It includes:
 - Hierarchic model of domains;
@@ -38,7 +38,7 @@ All of the components are tightly connected to each other with specific colors, 
 ### Sources
 > Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."
 
-### Incident Handling Checklist
+## Incident Handling Checklist
 
 An Incident Handling Checklist is a critical document that outlines the necessary steps and procedures for responding to a security incident, such as a cyber-attack, data breach, or other types of security breaches. The purpose of the checklist is to help incident responders promptly and efficiently respond to the incident, minimize its impact on the organization, and prevent future incidents from occurring.
 

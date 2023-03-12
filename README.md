@@ -1,3 +1,8 @@
+# WELCOME TO MY REPOSITORY
+
+
+<img src="https://i.pinimg.com/originals/71/21/d5/7121d581f292b50843cd7f70d91dd9ef.gif" alt="My Animated GIF">
+
 # IT Cheatsheets
 
 This repository contains a collection of IT cheatsheets to help you quickly reference essential information.

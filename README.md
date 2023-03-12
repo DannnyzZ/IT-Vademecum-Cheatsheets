@@ -16,6 +16,7 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 # 1. OSI Model
 
 **The OSI Model** is a conceptual framework that defines how data is transmitted between devices on a network. This cheatsheet provides information about each layer of the OSI Model, including:
+- number of layer;
 - name;
 - function;
 - type of data processed;
@@ -41,7 +42,7 @@ This cheatsheet contains the hierarchy models of domains. It includes:
 - Name, functions, definitions and examples of real domains;
 - Model of URL (Uniform Resource Locator), with brief description of its parts.
 
-All of the components are tightly connected to each other with specific colors, so it's easier to distinguish certain parts of the schema. Colors play a big role in this model, so keep that in mind while reading it.
+**All of the components are tightly connected to each other with specific colors, so it's easier to distinguish certain parts of the schema. Colors play a big role in this model, so keep that in mind while reading it.**
 
 ![Domain-Hierarchy Cheatsheet](https://user-images.githubusercontent.com/119814239/224484316-17723fa3-2864-41ee-8c10-9a8845b169a3.png)
 

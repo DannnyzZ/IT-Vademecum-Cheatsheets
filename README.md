@@ -1,7 +1,7 @@
 # IT Cheatsheets
 
 This repository contains a collection of IT cheatsheets to help you quickly reference essential information.
-> You can download the chosen file in PDF format from the catalog provided above.
+> You can download the chosen file in PDF/doc.x format from the catalog provided above.
 ## Contents
 1. OSI model
 2. Domain hierarchy

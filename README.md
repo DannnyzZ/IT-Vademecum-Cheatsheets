@@ -19,13 +19,13 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 ![OSI-Model Cheatsheet](https://user-images.githubusercontent.com/119814239/224482500-51d8a238-b547-4ed4-94fb-8b70b14c1198.png)
 
 ### Sources
-> https://github.com/vald-phoenix/the-osi-model
+`https://github.com/vald-phoenix/the-osi-model`
 
-> https://www.professormesser.com/network-plus/n10-008/n10-008-video/understanding-the-osi-model-3/
+`https://www.professormesser.com/network-plus/n10-008/n10-008-video/understanding-the-osi-model-3/`
 
-> https://www.comptia.org/blog/open-systems-interconnection-reference-model
+`https://www.comptia.org/blog/open-systems-interconnection-reference-model`
 
-> Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."
+`Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."`
 
 # 2. Domain Hierarchy
 
@@ -41,7 +41,7 @@ All of the components are tightly connected to each other with specific colors, 
 ![Domain-Hierarchy Cheatsheet](https://user-images.githubusercontent.com/119814239/224484316-17723fa3-2864-41ee-8c10-9a8845b169a3.png)
 
 ### Sources
-> Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."
+`Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."`
 
 # 3. Incident Handling Checklist
 
@@ -59,7 +59,7 @@ Having an Incident Handling Checklist in place is essential for organizations to
 ![INCIDENT HANDLING CHECKLIST](https://user-images.githubusercontent.com/119814239/224511435-113180ab-3b19-4765-ba2e-3af466a77cf2.png)
 
 ### Sources
-> NIST SP 800-61
+`NIST SP 800-61`
 
 # 4. Network Protocols
 
@@ -86,14 +86,21 @@ The cheatsheet recognizes two states of security:
 
 
 ### Sources
-> Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."
-> National Institute of Standards and Technology. (2020). Security and privacy controls for information systems and organizations. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf
-> Computing Technology Industry Association. (2021). CompTIA Security+ Certification Exam Objectives. https://www.comptia.org/certifications/security
-> MITRE Corporation. (2021). ATT&CK for Enterprise. https://attack.mitre.org/
-> MITRE Corporation. (2021). D3FEND. https://d3fend.mitre.org/
-> National Security Agency. (2019). Security Configuration Guides. https://www.nsa.gov/ia/programs/security_configuration_guides/
-> OPSEC. (2021). Open Source Intelligence. https://www.opsec.com/
-> OWASP Foundation. (2021). OWASP Top Ten Project. https://owasp.org/Top10/
+`Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."`
+
+`National Institute of Standards and Technology. (2020). Security and privacy controls for information systems and organizations. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf`
+
+`Computing Technology Industry Association. (2021). CompTIA Security+ Certification Exam Objectives. https://www.comptia.org/certifications/security`
+
+`MITRE Corporation. (2021). ATT&CK for Enterprise. https://attack.mitre.org/`
+
+`MITRE Corporation. (2021). D3FEND. https://d3fend.mitre.org/`
+
+`National Security Agency. (2019). Security Configuration Guides. https://www.nsa.gov/ia/programs/security_configuration_guides/`
+
+`OPSEC. (2021). Open Source Intelligence. https://www.opsec.com/`
+
+`OWASP Foundation. (2021). OWASP Top Ten Project. https://owasp.org/Top10/`
 
 ## License
 

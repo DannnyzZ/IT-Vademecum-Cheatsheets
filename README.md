@@ -8,7 +8,7 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 3. Incident handling checklist
 4. Network protocols
 
-# OSI Model
+# 1. OSI Model
 
 **The OSI Model** is a conceptual framework that defines how data is transmitted between devices on a network. This cheatsheet provides information about each layer of the OSI Model, including:
 - name;
@@ -27,7 +27,7 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 
 > Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."
 
-# Domain Hierarchy
+# 2. Domain Hierarchy
 
 **A Domain Hierarchy** refers to the organization of internet domains in a hierarchical structure. The top-level domain (TLD) is at the root of the hierarchy and is followed by second-level domains, third-level domains, and so on. Each level represents a more specific subdomain of the previous level. The hierarchy can be used to provide structure and organization to the internet, making it easier to find and access information.
 
@@ -43,7 +43,7 @@ All of the components are tightly connected to each other with specific colors, 
 ### Sources
 > Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."
 
-# Incident Handling Checklist
+# 3. Incident Handling Checklist
 
 **An Incident Handling Checklist** is a critical document that outlines the necessary steps and procedures for responding to a security incident, such as a cyber-attack, data breach, or other types of security breaches. The purpose of the checklist is to help incident responders promptly and efficiently respond to the incident, minimize its impact on the organization, and prevent future incidents from occurring.
 
@@ -61,7 +61,7 @@ Having an Incident Handling Checklist in place is essential for organizations to
 ### Sources
 > NIST SP 800-61
 
-# Network Protocols
+# 4. Network Protocols
 
 **Network protocols** are sets of rules or conventions that govern the communication between devices on a computer network. These protocols define the format, timing, sequencing, and error checking used during data transmission. Network protocols also determine how devices identify each other on the network and how they establish, maintain, and terminate connections. 
 

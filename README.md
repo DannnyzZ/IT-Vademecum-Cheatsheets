@@ -89,7 +89,10 @@ The cheatsheet recognizes two states of security:
 **IT IS ESSENTIAL TO NOTE THAT A PROTOCOL BEING CONSIDERED SECURE DOES NOT MEAN THAT IT CANNOT BE EXPLOITED.**
 
 [Network Protocols Cheatsheet.pdf](https://github.com/DannnyzZ/Cheatsheets/files/10950569/Network.Protocols.Cheatsheet.pdf)
-
+![948af321cff9ebfa054f6eadaf5936c6-0](https://user-images.githubusercontent.com/119814239/224708805-023b7709-8c7a-4939-a5cd-80c95c1c6eaa.png)
+![948af321cff9ebfa054f6eadaf5936c6-1](https://user-images.githubusercontent.com/119814239/224708828-456f8319-2cd4-4695-89c2-2c9f06bf5a66.png)
+![948af321cff9ebfa054f6eadaf5936c6-2](https://user-images.githubusercontent.com/119814239/224708854-3fe17f60-3ab8-4070-bb8b-2115610f4d17.png)
+![948af321cff9ebfa054f6eadaf5936c6-3](https://user-images.githubusercontent.com/119814239/224708866-d5f727e5-fef5-4335-9967-175d29e98fe8.png)
 
 ### Sources
 `Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."`

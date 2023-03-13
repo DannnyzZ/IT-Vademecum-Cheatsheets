@@ -7,6 +7,7 @@
 
 This repository contains a collection of IT cheatsheets to help you quickly reference essential information.
 > You can download the chosen file in PDF/doc.x format from the catalog provided above.
+
 ## Contents
 1. OSI model
 2. Domain hierarchy
@@ -111,7 +112,7 @@ The cheatsheet recognizes two states of security:
 
 `OWASP Foundation. (2021). OWASP Top Ten Project. https://owasp.org/Top10/`
 
-# 1. HTTP response codes
+# 5. HTTP response codes
 
 **HTTP response codes** are standardized status codes returned by web servers to indicate the result of a client request. They are three-digit codes that provide information about the status of the requested resource or the outcome of the server's attempt to satisfy the client's request.
 

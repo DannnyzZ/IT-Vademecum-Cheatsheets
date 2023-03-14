@@ -14,8 +14,9 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 3. Incident handling checklist
 4. Network protocols
 5. HTTP response codes
+6. Cryptography standards
 
-# 1. OSI Model
+# 1. OSI MODEL
 
 **The OSI Model** is a conceptual framework that defines how data is transmitted between devices on a network. This cheatsheet provides information about each layer of the OSI Model, including:
 - number of layer;
@@ -35,7 +36,7 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 
 `Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."`
 
-# 2. Domain Hierarchy
+# 2. DOMAIN HIERARCHY
 
 **A Domain Hierarchy** refers to the organization of internet domains in a hierarchical structure. The top-level domain (TLD) is at the root of the hierarchy and is followed by second-level domains, third-level domains, and so on. Each level represents a more specific subdomain of the previous level. The hierarchy can be used to provide structure and organization to the internet, making it easier to find and access information.
 
@@ -51,7 +52,7 @@ This cheatsheet contains the hierarchy models of domains. It includes:
 ### Sources
 `Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."`
 
-# 3. Incident Handling Checklist
+# 3. INCIDENT HANDLING CHECKLIST
 
 **An Incident Handling Checklist** is a critical document that outlines the necessary steps and procedures for responding to a security incident, such as a cyber-attack, data breach, or other types of security breaches. The purpose of the checklist is to help incident responders promptly and efficiently respond to the incident, minimize its impact on the organization, and prevent future incidents from occurring.
 
@@ -69,18 +70,18 @@ Having an Incident Handling Checklist in place is essential for organizations to
 ### Sources
 `NIST SP 800-61`
 
-# 4. Network Protocols
+# 4. NETWORK PROTOCOLS
 
 **Network protocols** are sets of rules or conventions that govern the communication between devices on a computer network. These protocols define the format, timing, sequencing, and error checking used during data transmission. Network protocols also determine how devices identify each other on the network and how they establish, maintain, and terminate connections. 
 
 This cheatsheet contains essential protocols and standards, including:
-- Name of the protocol
-- Port number
-- TCP or UDP port usage
-- OSI layer
-- Essential functions
-- Possible vectors of attack
-- State of security
+- Name of the protocol;
+- Port number;
+- TCP or UDP port usage;
+- OSI layer;
+- Essential functions;
+- Possible vectors of attack;
+- State of security.
 
 The cheatsheet recognizes two states of security:
 
@@ -112,14 +113,14 @@ The cheatsheet recognizes two states of security:
 
 `OWASP Foundation. (2021). OWASP Top Ten Project. https://owasp.org/Top10/`
 
-# 5. HTTP response codes
+# 5. HTTP RESPONSE CODES
 
 **HTTP response codes** are standardized status codes returned by web servers to indicate the result of a client request. They are three-digit codes that provide information about the status of the requested resource or the outcome of the server's attempt to satisfy the client's request.
 
 This cheatsheet provides information about:
 - class of the response code;
 - number;
-- meaning/function
+- meaning/function.
 
 Each HTTP response code is composed of a numeric code and a descriptive phrase, separated by a space. The first digit of the numeric code indicates the response class, while the second and third digits indicate more granular information about the status of the response.
 
@@ -136,6 +137,28 @@ There are five classes of HTTP response codes, each with its own set of numeric 
 `Hypertext Transfer Protocol (HTTP/1.1): Status Code Definitions. (2014). IETF. https://datatracker.ietf.org/doc/html/rfc7231#section-6`
 
 `HTTP response status codes. (2022, January 13). Mozilla. https://developer.mozilla.org/en-US/docs/Web/HTTP/Status`
+
+# 6. CRYPTOGRAPHY STANDARDS
+
+**Cryptography standards** are a set of protocols, algorithms, and techniques used to ensure secure communication and information exchange. They are intended to provide data confidentiality, integrity, authentication, and non-repudiation. This cheat sheet includes the following information for each standard:
+- Name: the name of the cryptographic standard;
+- Symmetric or asymmetric: whether the standard is based on symmetric or asymmetric encryption;
+- How it works: a brief explanation of how the standard processes data (e.g., block cipher, stream cipher);
+- Variations: any known variations or versions of the standard;
+- Possible vectors of attacks: potential vulnerabilities or weaknesses that could be exploited by an attacker to compromise the security of the standard.
+
+![Cryptographic Standards Cheatsheet](https://user-images.githubusercontent.com/119814239/225092084-515f5fe3-e782-48a7-8fd9-30fe2cddcd49.png)
+
+### Sources
+`National Institute of Standards and Technology (NIST) - https://www.nist.gov/`
+
+`International Organization for Standardization (ISO) - https://www.iso.org/`
+
+`European Telecommunications Standards Institute (ETSI) - https://www.etsi.org/`
+
+`Schneier on Security - https://www.schneier.com/`
+
+`Cryptography Stack Exchange - https://crypto.stackexchange.com/`
 
 ## License
 

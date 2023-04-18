@@ -1,7 +1,8 @@
 # WELCOME TO MY REPOSITORY
 
-
-<img src="https://i.pinimg.com/originals/71/21/d5/7121d581f292b50843cd7f70d91dd9ef.gif" alt="My Animated GIF">
+<p align="center">
+<img src="https://i.pinimg.com/originals/71/21/d5/7121d581f292b50843cd7f70d91dd9ef.gif" width="20%">
+</p>
 
 # IT Cheatsheets
 

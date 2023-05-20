@@ -16,6 +16,7 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 4. Network protocols
 5. HTTP response codes
 6. Cryptography standards
+7. Wireless networking – authentication methods/frameworks, security/network access protocols
 
 # 1. OSI MODEL
 
@@ -160,6 +161,36 @@ There are five classes of HTTP response codes, each with its own set of numeric 
 `Schneier on Security - https://www.schneier.com/`
 
 `Cryptography Stack Exchange - https://crypto.stackexchange.com/`
+
+# 7. Wireless networking – authentication methods/frameworks, security/network access protocols
+
+**Wireless network security** encompasses a range of measures, including authentication methods, security protocols, authentication frameworks, and network access protocols, aimed at ensuring the secure and authorized access to wireless networks. These components collectively establish and verify the identities of devices or users, protect the confidentiality and integrity of data transmission, and govern the communication and interaction between devices and the network infrastructure. By implementing these measures, wireless network security safeguards against unauthorized access, data breaches, and other security threats, promoting the secure and reliable operation of wireless networks.
+- Name: Identifies a wireless authentication method, security protocol, authentication framework, or network access protocol.
+- Encryption: Specifies the encryption techniques used to secure wireless data transmission.
+- Process and Authentication: Describes the steps and methods involved in verifying the identity of devices or users connecting to the network.
+- Additional Security: Includes any extra security measures provided by the wireless mechanism to enhance protection.
+- Compatibility: Indicates the compatibility of the wireless mechanism with different devices, networks, or protocols.
+- Security: Represents the level of security provided by the wireless mechanism, considering factors such as encryption strength, authentication robustness, and additional security features.
+
+![wireless_protocols_Page_1](https://github.com/DannnyzZ/Cheatsheets/assets/119814239/45182467-f6af-4f28-aa64-610b6ac3b97e)
+![wireless_protocols_Page_2](https://github.com/DannnyzZ/Cheatsheets/assets/119814239/657a1e35-463a-403d-b1a1-89063aa92fb9)
+![wireless_protocols_Page_3](https://github.com/DannnyzZ/Cheatsheets/assets/119814239/fb19c073-7598-4b07-ac4c-64fde8f4bd10)
+
+### Sources
+
+`IEEE Standards Association. (n.d.). Retrieved from https://standards.ieee.org/`
+
+`Wi-Fi Alliance. (n.d.). Retrieved from https://www.wi-fi.org/`
+
+`IEEE Xplore. (n.d.). Retrieved from https://ieeexplore.ieee.org`
+
+`Google Scholar. (n.d.). Retrieved from https://scholar.google.com`
+
+`FreeRADIUS. (n.d.). Retrieved from https://freeradius.org/`
+
+`Stallings, W. (2017). Network Security Essentials: Applications and Standards (6th ed.). Pearson.`
+
+`Smith, G. (2010). Wi-Fi Security: The Complete Guide. McGraw-Hill Education.`
 
 ## License
 

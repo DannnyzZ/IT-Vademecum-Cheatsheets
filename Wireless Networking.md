@@ -12,6 +12,11 @@
 ![wireless_protocols_Page_2](https://github.com/DannnyzZ/Cheatsheets/assets/119814239/77ea5734-320c-4254-8931-2aa103f24221)
 ![wireless_protocols_Page_3](https://github.com/DannnyzZ/Cheatsheets/assets/119814239/f15a3733-f10f-4a0b-a9e7-ea325a2a538e)
 
+### Files
+
+[wireless_protocols.docx](https://github.com/DannnyzZ/Cheatsheets/files/11522607/wireless_protocols.docx)
+[wireless_protocols.pdf](https://github.com/DannnyzZ/Cheatsheets/files/11522608/wireless_protocols.pdf)
+
 ### Sources
 
 `IEEE Standards Association. (n.d.). Retrieved from https://standards.ieee.org/`

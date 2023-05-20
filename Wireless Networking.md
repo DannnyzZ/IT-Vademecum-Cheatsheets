@@ -1,6 +1,8 @@
 # 7. Wireless networking – authentication methods/frameworks, security/network access protocols
 
 **Wireless network security** encompasses a range of measures, including authentication methods, security protocols, authentication frameworks, and network access protocols, aimed at ensuring the secure and authorized access to wireless networks. These components collectively establish and verify the identities of devices or users, protect the confidentiality and integrity of data transmission, and govern the communication and interaction between devices and the network infrastructure. By implementing these measures, wireless network security safeguards against unauthorized access, data breaches, and other security threats, promoting the secure and reliable operation of wireless networks.
+
+This cheatsheet contains:
 - Name: Identifies a wireless authentication method, security protocol, authentication framework, or network access protocol.
 - Encryption: Specifies the encryption techniques used to secure wireless data transmission.
 - Process and Authentication: Describes the steps and methods involved in verifying the identity of devices or users connecting to the network.

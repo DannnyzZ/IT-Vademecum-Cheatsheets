@@ -1,6 +1,9 @@
 # 6. CRYPTOGRAPHY STANDARDS
 
-**Cryptography standards** are a set of protocols, algorithms, and techniques used to ensure secure communication and information exchange. They are intended to provide data confidentiality, integrity, authentication, and non-repudiation. This cheat sheet includes the following information for each standard:
+**Cryptography standards** are a set of protocols, algorithms, and techniques used to ensure secure communication and information exchange. They are intended to provide data confidentiality, integrity, authentication, and non-repudiation. 
+
+## Contents
+This cheat sheet includes the following information for each standard:
 - Name: the name of the cryptographic standard;
 - Symmetric or asymmetric: whether the standard is based on symmetric or asymmetric encryption;
 - How it works: a brief explanation of how the standard processes data (e.g., block cipher, stream cipher);
@@ -9,7 +12,10 @@
 
 ![Cryptographic Standards Cheatsheet](https://user-images.githubusercontent.com/119814239/225092084-515f5fe3-e782-48a7-8fd9-30fe2cddcd49.png)
 
-### Sources
+## Files
+[Cryptographic Standards Cheatsheet.docx](https://github.com/DannnyzZ/Cheatsheets/files/11524676/Cryptographic.Standards.Cheatsheet.docx)
+
+## Sources
 `National Institute of Standards and Technology (NIST) - https://www.nist.gov/`
 
 `International Organization for Standardization (ISO) - https://www.iso.org/`

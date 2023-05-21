@@ -1,6 +1,10 @@
 # 1. OSI MODEL
 
-**The OSI Model** is a conceptual framework that defines how data is transmitted between devices on a network. This cheatsheet provides information about each layer of the OSI Model, including:
+**The OSI Model** is a conceptual framework that defines how data is transmitted between devices on a network. 
+
+## Contents
+
+This cheatsheet provides information about each layer of the OSI Model, including:
 - number of layer;
 - name;
 - function;
@@ -8,6 +12,10 @@
 - common protocols and standards.
 
 ![OSI-Model Cheatsheet](https://user-images.githubusercontent.com/119814239/224482500-51d8a238-b547-4ed4-94fb-8b70b14c1198.png)
+
+## Files
+
+[OSI-Model.pdf](https://github.com/DannnyzZ/Cheatsheets/files/11524855/OSI-Model.pdf)
 
 ### Sources
 `https://github.com/vald-phoenix/the-osi-model`

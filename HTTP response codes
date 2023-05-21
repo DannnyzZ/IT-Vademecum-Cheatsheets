@@ -2,6 +2,8 @@
 
 **HTTP response codes** are standardized status codes returned by web servers to indicate the result of a client request. They are three-digit codes that provide information about the status of the requested resource or the outcome of the server's attempt to satisfy the client's request.
 
+## Contents
+
 This cheatsheet provides information about:
 - class of the response code;
 - number;

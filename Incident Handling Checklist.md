@@ -15,7 +15,8 @@ Having an Incident Handling Checklist in place is essential for organizations to
 
 ### Files
 
-
+[INCIDENT HANDLING CHECKLIST.docx](https://github.com/DannnyzZ/Cheatsheets/files/11524741/INCIDENT.HANDLING.CHECKLIST.docx)
+[INCIDENT HANDLING CHECKLIST.pdf](https://github.com/DannnyzZ/Cheatsheets/files/11524743/INCIDENT.HANDLING.CHECKLIST.pdf)
 
 ### Sources
 `NIST SP 800-61`

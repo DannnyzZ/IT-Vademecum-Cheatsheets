@@ -2,7 +2,7 @@
 
 **An Incident Handling Checklist** is a critical document that outlines the necessary steps and procedures for responding to a security incident, such as a cyber-attack, data breach, or other types of security breaches. The purpose of the checklist is to help incident responders promptly and efficiently respond to the incident, minimize its impact on the organization, and prevent future incidents from occurring.
 
-### Contents
+## Contents
 
 The Incident Handling Checklist is typically structured into three main sections:
 - Detection and Analysis: This section includes steps for detecting and analyzing the incident, identifying the type and scope of the incident, and assessing its impact on the organization. This section also outlines the communication procedures and escalation protocols to follow during the incident.
@@ -15,13 +15,13 @@ Having an Incident Handling Checklist in place is essential for organizations to
 
 ![INCIDENT HANDLING CHECKLIST](https://user-images.githubusercontent.com/119814239/224511435-113180ab-3b19-4765-ba2e-3af466a77cf2.png)
 
-### Files
+## Files
 
 [INCIDENT HANDLING CHECKLIST.docx](https://github.com/DannnyzZ/Cheatsheets/files/11524741/INCIDENT.HANDLING.CHECKLIST.docx)
 
 [INCIDENT HANDLING CHECKLIST.pdf](https://github.com/DannnyzZ/Cheatsheets/files/11524743/INCIDENT.HANDLING.CHECKLIST.pdf)
 
-### Sources
+## Sources
 `NIST SP 800-61`
 
 ## License

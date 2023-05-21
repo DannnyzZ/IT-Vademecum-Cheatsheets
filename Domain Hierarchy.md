@@ -19,3 +19,7 @@ This cheatsheet contains the hierarchy models of domains. It includes:
 
 ### Sources
 `Computing Technology Industry Association (CompTIA). (2021). IT Fundamentals (FC0-U61) Student Guide. Section 3.3.2 "Domain Name System (DNS)."`
+
+## License
+
+This repository is licensed under the MIT License.

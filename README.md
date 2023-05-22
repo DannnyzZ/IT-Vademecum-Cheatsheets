@@ -10,7 +10,7 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 > You can download the chosen file in PDF/doc.x format from the catalog provided above.
 
 ## Contents
-1. OSI model:
+### 1. OSI model
 > number of layer;
 
 > name;
@@ -21,14 +21,20 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 
 > common protocols and standards.
 
-2. Domain hierarchy
+### 2. Domain hierarchy
 > Hierarchic model of domains;
 
 > Name, functions, definitions and examples of real domains;
 
 > Model of URL (Uniform Resource Locator), with brief description of its parts.
 
-Incident handling checklist
+### 3. Incident handling checklist
+> Detection and Analysis
+
+> Containment, Eradication, and Recovery
+
+> Post-Incident Activity
+
 Network protocols
 HTTP response codes
 Cryptography standards

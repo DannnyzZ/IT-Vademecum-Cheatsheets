@@ -5,12 +5,12 @@
 ## Contents
 
 This cheatsheet contains:
-- Name: Identifies a wireless authentication method, security protocol, authentication framework, or network access protocol.
-- Encryption: Specifies the encryption techniques used to secure wireless data transmission.
-- Process and Authentication: Describes the steps and methods involved in verifying the identity of devices or users connecting to the network.
-- Additional Security: Includes any extra security measures provided by the wireless mechanism to enhance protection.
-- Compatibility: Indicates the compatibility of the wireless mechanism with different devices, networks, or protocols.
-- Security: Represents the level of security provided by the wireless mechanism, considering factors such as encryption strength, authentication robustness, and additional security features. **Green is considered safe, red is considered not safe.**
+- Name: Identifies a wireless authentication method, security protocol, authentication framework, or network access protocol;
+- Encryption: Specifies the encryption techniques used to secure wireless data transmission;
+- Process and Authentication: Describes the steps and methods involved in verifying the identity of devices or users connecting to the network;
+- Additional Security: Includes any extra security measures provided by the wireless mechanism to enhance protection;
+- Compatibility: Indicates the compatibility of the wireless mechanism with different devices, networks, or protocols;
+- Security: Represents the level of security provided by the wireless mechanism, considering factors such as encryption strength; authentication robustness, and additional security features. **Green is considered safe, red is considered not safe.**
 
 ![wireless_protocols_Page_1](https://github.com/DannnyzZ/Cheatsheets/assets/119814239/146b7dbb-1d06-4985-8583-6656054a536d)
 ![wireless_protocols_Page_2](https://github.com/DannnyzZ/Cheatsheets/assets/119814239/77ea5734-320c-4254-8931-2aa103f24221)

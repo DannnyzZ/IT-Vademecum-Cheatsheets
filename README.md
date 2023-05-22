@@ -68,15 +68,15 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 > Possible vectors of attacks: potential vulnerabilities or weaknesses that could be exploited by an attacker to compromise the security of the standard.
 
 ### 7. Wireless networking – authentication methods/frameworks, security/network access protocols
-> Name: Identifies a wireless authentication method, security protocol, authentication framework, or network access protocol.
+> Name: Identifies a wireless authentication method, security protocol, authentication framework, or network access protocol;
 
-> Encryption: Specifies the encryption techniques used to secure wireless data transmission.
+> Encryption: Specifies the encryption techniques used to secure wireless data transmission;
 
-> Process and Authentication: Describes the steps and methods involved in verifying the identity of devices or users connecting to the network.
+> Process and Authentication: Describes the steps and methods involved in verifying the identity of devices or users connecting to the network;
 
-> Additional Security: Includes any extra security measures provided by the wireless mechanism to enhance protection.
+> Additional Security: Includes any extra security measures provided by the wireless mechanism to enhance protection;
 
-> Compatibility: Indicates the compatibility of the wireless mechanism with different devices, networks, or protocols.
+> Compatibility: Indicates the compatibility of the wireless mechanism with different devices, networks, or protocols;
 
 > Security: Represents the level of security provided by the wireless mechanism, considering factors such as encryption strength, authentication robustness, and additional security features. Green is considered safe, red is considered not safe.
 

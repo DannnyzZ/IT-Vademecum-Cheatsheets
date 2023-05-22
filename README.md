@@ -10,9 +10,16 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 > You can download the chosen file in PDF/doc.x format from the catalog provided above.
 
 ## Contents
-OSI model
+1. OSI model:
+> number of layer;
+> name;
+> function;
+> type of data processed;
+> common protocols and standards.
 
 Domain hierarchy
+
+
 Incident handling checklist
 Network protocols
 HTTP response codes

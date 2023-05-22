@@ -12,13 +12,21 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 ## Contents
 1. OSI model:
 > number of layer;
+
 > name;
+
 > function;
+
 > type of data processed;
+
 > common protocols and standards.
 
-Domain hierarchy
+2. Domain hierarchy
+> Hierarchic model of domains;
 
+> Name, functions, definitions and examples of real domains;
+
+> Model of URL (Uniform Resource Locator), with brief description of its parts.
 
 Incident handling checklist
 Network protocols

@@ -10,13 +10,18 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 > You can download the chosen file in PDF/doc.x format from the catalog provided above.
 
 ## Contents
-1. OSI model
-2. Domain hierarchy
-3. Incident handling checklist
-4. Network protocols
-5. HTTP response codes
-6. Cryptography standards
-7. Wireless networking – authentication methods/frameworks, security/network access protocols
+OSI model
+
+Domain hierarchy
+Incident handling checklist
+Network protocols
+HTTP response codes
+Cryptography standards
+Wireless networking – authentication methods/frameworks, security/network access protocols
+
+## Navigating through repository
+
+To access the chosen topic, navigate to the main branch of the repository and select the file with the .md extension.
 
 ## License
 

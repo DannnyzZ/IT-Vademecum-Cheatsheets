@@ -57,7 +57,17 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 
 > meaning/function.
 
-Cryptography standards
+### 6. Cryptography standards
+> Name: the name of the cryptographic standard;
+
+> Symmetric or asymmetric: whether the standard is based on symmetric or asymmetric encryption;
+
+> How it works: a brief explanation of how the standard processes data (e.g., block cipher, stream cipher);
+
+> Variations: any known variations or versions of the standard;
+
+> Possible vectors of attacks: potential vulnerabilities or weaknesses that could be exploited by an attacker to compromise the security of the standard.
+
 Wireless networking – authentication methods/frameworks, security/network access protocols
 
 ## Navigating through repository

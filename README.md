@@ -35,7 +35,21 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 
 > Post-Incident Activity
 
-Network protocols
+### 4. Network protocols
+> Name of the protocol;
+
+> Port number;
+
+> TCP or UDP port usage;
+
+> OSI layer;
+
+> Essential functions;
+
+> Possible vectors of attack;
+
+> State of security.
+
 HTTP response codes
 Cryptography standards
 Wireless networking – authentication methods/frameworks, security/network access protocols

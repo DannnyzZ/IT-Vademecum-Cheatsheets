@@ -50,7 +50,13 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 
 > State of security.
 
-HTTP response codes
+### 5. HTTP response codes
+> class of the response code;
+
+> number;
+
+> meaning/function.
+
 Cryptography standards
 Wireless networking – authentication methods/frameworks, security/network access protocols
 

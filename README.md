@@ -23,14 +23,14 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 - Name, functions, definitions and examples of real domains;
 - Model of URL (Uniform Resource Locator), with brief description of its parts.
 
-> Link: https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Domain%20Hierarchy.md
+[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Domain%20Hierarchy.md)
 
 ### 3. Incident handling checklist
 - Detection and Analysis;
 - Containment, Eradication, and Recovery;
 - Post-Incident Activity.
 
-> Link: https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Incident%20Handling%20Checklist.md
+[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Incident%20Handling%20Checklist.md)
 
 ### 4. Network protocols
 - Name of the protocol;
@@ -41,14 +41,14 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 - Possible vectors of attack;
 - State of security.
 
-> Link: https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Network%20Protocols.md
+[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Network%20Protocols.md)
 
 ### 5. HTTP response codes
 - class of the response code;
 - number;
 - meaning/function.
 
-> Link: https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/HTTP%20Response%20Codes.md
+[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/HTTP%20Response%20Codes.md)
 
 ### 6. Cryptography standards
 - Name: the name of the cryptographic standard;
@@ -57,7 +57,7 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 - Variations: any known variations or versions of the standard;
 - Possible vectors of attacks: potential vulnerabilities or weaknesses that could be exploited by an attacker to compromise the security of the standard.
 
-> Link: https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Cryptography%20standards.md
+[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Cryptography%20standards.md)
 
 ### 7. Wireless networking – authentication methods/frameworks, security/network access protocols
 - Name: Identifies a wireless authentication method, security protocol, authentication framework, or network access protocol;
@@ -67,11 +67,11 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 - Compatibility: Indicates the compatibility of the wireless mechanism with different devices, networks, or protocols;
 - Security: Represents the level of security provided by the wireless mechanism, considering factors such as encryption strength, authentication robustness, and additional security features. Green is considered safe, red is considered not safe.
 
-> Link: https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Wireless%20Networking.md
+[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Wireless%20Networking.md)
 
 ## Navigating through repository
 
-To access the chosen topic, navigate to the main branch of the repository and select the file with the .md extension.
+To access the chosen topic, navigate to the main branch of the repository and select the file with the .md extension, or simply click the link.
 
 ## License
 

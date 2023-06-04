@@ -10,12 +10,13 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 
 ## Contents
 ### 1. OSI model
+[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/OSI%20Model.md)
 - number of layer;
 - name;
 - function;
 - type of data processed;
 - common protocols and standards.
-[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/OSI%20Model.md)
+
 
 ### 2. Domain hierarchy
 - Hierarchic model of domains;

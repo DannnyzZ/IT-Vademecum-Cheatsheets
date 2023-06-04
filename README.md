@@ -26,9 +26,9 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 > Link: https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Domain%20Hierarchy.md
 
 ### 3. Incident handling checklist
-- Detection and Analysis
-- Containment, Eradication, and Recovery
-- Post-Incident Activity
+- Detection and Analysis;
+- Containment, Eradication, and Recovery;
+- Post-Incident Activity.
 
 > Link: https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Incident%20Handling%20Checklist.md
 

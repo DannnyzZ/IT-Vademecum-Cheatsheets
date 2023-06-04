@@ -47,6 +47,8 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 - Variations: any known variations or versions of the standard;
 - Possible vectors of attacks: potential vulnerabilities or weaknesses that could be exploited by an attacker to compromise the security of the standard.
 
+Link:https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/Cryptography%20standards.md
+
 ### 7. Wireless networking – authentication methods/frameworks, security/network access protocols
 - Name: Identifies a wireless authentication method, security protocol, authentication framework, or network access protocol;
 - Encryption: Specifies the encryption techniques used to secure wireless data transmission;

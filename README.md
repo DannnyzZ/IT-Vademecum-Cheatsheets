@@ -16,7 +16,9 @@ This repository contains a collection of IT cheatsheets to help you quickly refe
 - type of data processed;
 - common protocols and standards.
 
-[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/OSI%20Model.md) 
+<p align="center">
+[LINK](https://github.com/DannnyzZ/IT-Vademecum-Cheatsheets/blob/main/OSI%20Model.md)
+</p>
 
 ### 2. Domain hierarchy
 - Hierarchic model of domains;
